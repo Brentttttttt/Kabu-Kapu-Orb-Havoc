@@ -15,7 +15,7 @@
 
 ## 📱 Download the Android Demo
 
-**[⬇ Download Latest Demo](https://github.com/Brentttttttt/Kabu-Kapu-Orb-Havoc/releases)**
+**[⬇ Download the Android Demo](https://github.com/Brentttttttt/Kabu-Kapu-Orb-Havoc/releases/tag/v0.1.0-demo)**
 
 Open the latest release and download `Kabu-Kapu-Orb-Havoc-Demo.apk` from its **Assets** section. This is an early Android demo, not a final version. Android may ask you to allow installation from the app you used to download the APK.
 
@@ -76,7 +76,7 @@ These are captures from the current demo. Visuals may change during development.
 
 ## Installation
 
-1. Visit the [Releases page](https://github.com/Brentttttttt/Kabu-Kapu-Orb-Havoc/releases) on your Android device.
+1. Visit the [v0.1.0 demo release](https://github.com/Brentttttttt/Kabu-Kapu-Orb-Havoc/releases/tag/v0.1.0-demo) on your Android device.
 2. Download the demo APK from the latest release's **Assets** section.
 3. Open the downloaded APK and follow Android's installation prompts. If prompted, allow installation from that download source.
 4. Launch **Kabu & Kapu: Orb Havoc**.
