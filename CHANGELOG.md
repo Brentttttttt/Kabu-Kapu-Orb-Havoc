@@ -1,5 +1,15 @@
 # Changelog
 
+## v0.1.1-demo — Permanent CRT Presentation
+
+Android version **0.1.1 (build 2)**.
+
+- Keep the existing CRT presentation permanently active across menus, the story introduction, gameplay and its overlays, and the controller panel.
+- Remove the CRT switch from Options and remove the saved on/off preference.
+- Preserve the current CRT strengths, gameplay monitor appearance, controls, and gameplay balance.
+
+The story introduction and existing gameplay systems continue unchanged. This remains a demo / work in progress.
+
 ## v0.1.0-demo — Android Demo
 
 **Work in progress.** This early demo includes:

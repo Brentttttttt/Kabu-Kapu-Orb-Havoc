@@ -15,7 +15,7 @@
 
 ## 📱 Download the Android Demo
 
-**[⬇ Download the Android Demo](https://github.com/Brentttttttt/Kabu-Kapu-Orb-Havoc/releases/tag/v0.1.0-demo)**
+**[⬇ Download the Android Demo v0.1.1](https://github.com/Brentttttttt/Kabu-Kapu-Orb-Havoc/releases/tag/v0.1.1-demo)**
 
 Open the latest release and download `Kabu-Kapu-Orb-Havoc-Demo.apk` from its **Assets** section. This is an early Android demo, not a final version. Android may ask you to allow installation from the app you used to download the APK.
 
@@ -32,7 +32,7 @@ Open the latest release and download `Kabu-Kapu-Orb-Havoc-Demo.apk` from its **A
 - Common, Rare, Epic, and Legendary upgrades, including character-specific choices
 - Preta, Poison Hag, Raven, and Pulgasari enemies
 - Rising difficulty, recurring boss encounters, and a three-phase Zodiac Lamb fight
-- Retro CRT and arcade-inspired presentation with touch controls for Android
+- Always-on retro CRT and arcade-inspired presentation with touch controls for Android
 
 ## Characters
 
@@ -76,12 +76,16 @@ These are captures from the current demo. Visuals may change during development.
 
 ## Installation
 
-1. Visit the [v0.1.0 demo release](https://github.com/Brentttttttt/Kabu-Kapu-Orb-Havoc/releases/tag/v0.1.0-demo) on your Android device.
+1. Visit the [v0.1.1 demo release](https://github.com/Brentttttttt/Kabu-Kapu-Orb-Havoc/releases/tag/v0.1.1-demo) on your Android device.
 2. Download the demo APK from the latest release's **Assets** section.
 3. Open the downloaded APK and follow Android's installation prompts. If prompted, allow installation from that download source.
 4. Launch **Kabu & Kapu: Orb Havoc**.
 
 Android is the only supported platform for this demo release.
+
+Version **0.1.1 (build 2)** makes the existing CRT presentation permanent across the app. Its strength is unchanged, and the CRT switch has been removed from Options. This update does not change gameplay or balance.
+
+This demo is built in release mode and signed with the same development debug key as the previous demo. It is intended for direct Android testing, not app-store distribution.
 
 ## Development and Technology
 
